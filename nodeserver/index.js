@@ -20,7 +20,7 @@ const users = {};
 */
 
 /*
-    Whenever these callbacks are fired they emit the events to client.js.
+    Whenever these callbacks are fired they emit the events to client.js. 
 */
 
 io.on('connection', socket =>{
